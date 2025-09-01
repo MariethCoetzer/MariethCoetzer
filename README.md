@@ -14,16 +14,16 @@
     <td align="center" width="33%">
       <a href="https://github.com/Braesemann/FounderPersonalities">
         <img src="assets/project1.png" width="200" alt="Data Engineer"/>
-        <br><b>Data Engineer</b>
+        <br><b>Data Engineering</b>
       </a>
       <br><sub>Implemented data anonymization, prepared and uploaded datasets, and authored documentation to support reproducibility.</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Braesemann/FounderPersonalities">
-        <img src="assets/project2.png" width="200" alt="Project 2"/>
-        <br><b>Project Two</b>
+      <a href="[https://github.com/Braesemann/FounderPersonalities](https://github.com/MariethCoetzer/Data_Science_Portfolio/blob/main/%5B03%5D%20Predicting%20Grit%20in%20Adolescents%20using%20Machine%20Learning/Predicting%20Grit%20in%20Adolescents%20using%20Machine%20Learning.ipynb)">
+        <img src="assets/project2.png" width="200" alt="Machine Learning"/>
+        <br><b>Machine Learning</b>
       </a>
-      <br><sub>Deployed a FastAPI service with Docker for real-time predictions.</sub>
+      <br><sub>Machine learning framework using Sklearn to perform feature extraction on 1000.</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Braesemann/FounderPersonalities">
