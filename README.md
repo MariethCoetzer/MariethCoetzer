@@ -1,7 +1,6 @@
 <!-- HERO -->
 <h1 align="center">Marieth's Github</h1>
-<p align="center">Data Scientist/Engineer/Architect •  Machine Learning Engineer • Founder</p>
-<p align="center">!!Page currently under construction. Please come back in an hour for update profile!! </p>
+<p align="center">Data Scientist •  Machine Learning Engineer • Founder</p>
 
 ---
 
