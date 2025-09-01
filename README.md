@@ -2,12 +2,8 @@
 <h1 align="center">Marieth's Github</h1>
 <p align="center">Data Scientist •  Machine Learning Engineer • Founder</p>
 
----
 
-
-
-## Featured Projects
-  
+<h2 align="center">Marieth's Github</h2>  
 <table>
   <tr>
     <td align="center" width="33%">
