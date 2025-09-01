@@ -18,7 +18,6 @@
       </a>
       <br><sub>Implemented data anonymization, prepared and uploaded datasets, and authored documentation to support reproducibility.</sub>
     </td>
-    
     <td align="center" width="33%">
       <a href="https://github.com/Braesemann/FounderPersonalities">
         <img src="assets/project2.png" width="200" alt="Project 2"/>
@@ -26,7 +25,6 @@
       </a>
       <br><sub>Deployed a FastAPI service with Docker for real-time predictions.</sub>
     </td>
-    
     <td align="center" width="33%">
       <a href="https://github.com/Braesemann/FounderPersonalities">
         <img src="assets/project3.png" width="200" alt="Project 3"/>
