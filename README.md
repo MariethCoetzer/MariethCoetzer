@@ -4,6 +4,7 @@
 
 
 <h2 align="center" style="border-bottom: 0;>Projects</h2>  
+  
 <table>
   <tr>
     <td align="center" width="33%">
