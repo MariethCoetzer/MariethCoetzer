@@ -12,7 +12,7 @@
         <img src="assets/ML.png" width="200" alt="image"/>
         <br><b>Machine Learning</b>
       </a>
-      <br><sub>Applied machine learning to predict grit in adolescents, uncovering behavioral insights and showing how interpretable models used in education research</sub>
+      <br><sub>Applied machine learning to predict grit in adolescents, uncovering behavioral insights using interpretable models </sub>
     </td>
      <td align="center" width="33%">
       <a href="https://github.com/Braesemann/FounderPersonalities">
