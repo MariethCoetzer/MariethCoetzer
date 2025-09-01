@@ -19,7 +19,7 @@
       <br><sub>Implemented data anonymization, prepared and uploaded datasets, and authored documentation to support reproducibility</sub>
     </td>
     <td align="center" width="33%">
-      <a href="[https://github.com/Braesemann/FounderPersonalities](https://github.com/MariethCoetzer/Data_Science_Portfolio/blob/main/%5B03%5D%20Predicting%20Grit%20in%20Adolescents%20using%20Machine%20Learning/Predicting%20Grit%20in%20Adolescents%20using%20Machine%20Learning.ipynb)">
+      <a href="https://github.com/MariethCoetzer/Data_Science_Portfolio/blob/main/%5B03%5D%20Predicting%20Grit%20in%20Adolescents%20using%20Machine%20Learning/Predicting%20Grit%20in%20Adolescents%20using%20Machine%20Learning.ipynb">
         <img src="assets/project2.png" width="200" alt="image"/>
         <br><b>Machine Learning</b>
       </a>
