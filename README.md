@@ -1,6 +1,6 @@
 <!-- HERO -->
-<h1 align="center">Hi, I'm YOUR_NAME 👋</h1>
-<p align="center">Machine Learning • Data • Impact-driven builder</p>
+<h1 align="center">Marieth's Github</h1>
+<p align="center">Machine Learning • Data Science • Founder</p>
 
 
 <p align="center">
@@ -12,9 +12,7 @@
 
 ---
 
-
-
-![Banner](<img width="160" height="34" alt="image" src="https://github.com/user-attachments/assets/4e5315a9-c871-488b-a52c-eec66a6f0978" />)
+</center>
 
 ### 🌟 Featured Projects
 
@@ -25,6 +23,7 @@
 | Project Two | One-sentence value prop | FastAPI, Docker | [Repo](https://github.com/USER/REPO) |
 | Project Three | One-sentence value prop | SQL, dbt | [Repo](https://github.com/USER/REPO) |
 
+</center>
 
 ### 🧰 Toolbox
 
