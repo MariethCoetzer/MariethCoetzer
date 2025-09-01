@@ -1,34 +1,38 @@
 <!-- HERO -->
 <h1 align="center">Marieth's Github</h1>
-<p align="center">Machine Learning • Data Science • Founder</p>
-
-
-<p align="center">
-<a href="https://YOUR-SITE.com">Website</a> •
-<a href="mailto:you@email.com">Email</a> •
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
-</p>
-
+<p align="center">Data Scienctist •  Machine Learning Engineer • Founder</p>
 
 ---
 
 </center>
 
-### 🌟 Featured Projects
+## Featured Projects
 
-
-| Project | What it does | Tech | Link |
-|---|---|---|---|
-| Project One | One-sentence value prop | Python, PyTorch | [Repo](https://github.com/USER/REPO) • [Demo](https://demo-url) |
-| Project Two | One-sentence value prop | FastAPI, Docker | [Repo](https://github.com/USER/REPO) |
-| Project Three | One-sentence value prop | SQL, dbt | [Repo](https://github.com/USER/REPO) |
-
-</center>
-
-### 🧰 Toolbox
-
-
-`Python` · `Pandas` · `NumPy` · `PyTorch` · `scikit-learn` · `SQL` · `FastAPI` · `Docker` · `Git` · `Hugo/Jekyll`
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/USER/PROJECT1">
+        <img src="assets/project1.png" width="200" alt="Project 1"/>
+        <br><b>Project One</b>
+      </a>
+      <br><sub>Built a ML model with PyTorch to improve XYZ by 15%.</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/USER/PROJECT2">
+        <img src="assets/project2.png" width="200" alt="Project 2"/>
+        <br><b>Project Two</b>
+      </a>
+      <br><sub>Deployed a FastAPI service with Docker for real-time predictions.</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/USER/PROJECT3">
+        <img src="assets/project3.png" width="200" alt="Project 3"/>
+        <br><b>Project Three</b>
+      </a>
+      <br><sub>Designed a SQL + dbt pipeline for automated reporting.</sub>
+    </td>
+  </tr>
+</table>
 
 
 ### ✍️ Writing / Talks
