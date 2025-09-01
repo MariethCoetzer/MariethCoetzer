@@ -35,23 +35,3 @@
   </tr>
 </table>
 
-
-
-### ✍️ Writing / Talks
-- [Title of post/talk](https://link) — 2025
-- [Another one](https://link) — 2024
-
-
-### 📫 Contact
-- Email: you@email.com
-- Resume: [PDF](https://link-to-resume.pdf)
-
-
-<!-- Optional GitHub stats cards -->
-<!-- Replace YOUR-USERNAME below; remove if you prefer ultra-minimal -->
-
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_title=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact" height="150" />
-</p>
