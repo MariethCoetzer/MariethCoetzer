@@ -5,14 +5,14 @@
 
 ---
 
-</center>
+
 
 ## Featured Projects
   
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="[Data Engineering](https://github.com/Braesemann/FounderPersonalities)">
+      <a href="https://github.com/Braesemann/FounderPersonalities">
         <img src="assets/project1.png" width="200" alt="Project 1"/>
         <br><b>Project One</b>
       </a>
@@ -37,7 +37,7 @@
   </tr>
 </table>
 
-</center>
+
 
 ### ✍️ Writing / Talks
 - [Title of post/talk](https://link) — 2025
