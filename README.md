@@ -13,14 +13,14 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/Braesemann/FounderPersonalities">
-        <img src="assets/project1.png" width="200" alt="Project 1"/>
+        <img src="assets/project1.png" width="200" alt="Data Engineer"/>
         <br><b>Project One</b>
       </a>
       <br><sub>Implemented data anonymization, prepared and uploaded datasets, and authored documentation to support reproducibility.</sub>
     </td>
     
     <td align="center" width="33%">
-      <a href="https://github.com/USER/PROJECT2">
+      <a href="https://github.com/Braesemann/FounderPersonalities">
         <img src="assets/project2.png" width="200" alt="Project 2"/>
         <br><b>Project Two</b>
       </a>
@@ -28,7 +28,7 @@
     </td>
     
     <td align="center" width="33%">
-      <a href="https://github.com/USER/PROJECT3">
+      <a href="https://github.com/Braesemann/FounderPersonalities">
         <img src="assets/project3.png" width="200" alt="Project 3"/>
         <br><b>Project Three</b>
       </a>
