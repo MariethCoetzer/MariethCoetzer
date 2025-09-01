@@ -1,8 +1,8 @@
 <!-- HERO -->
-<h1 align="center">Marieth's Github</h1>
+<h1 align="center" style="border-bottom: none; margin-bottom: 0;">Marieth's GitHub</h1>
 <p align="center">Data Scientist •  Machine Learning Engineer • Founder</p>
 
-__ 
+<hr style="border: 1px solid lightgray; width: 60%; margin: auto;">
 
 <h2 align="center">Projects</h2>  
   
