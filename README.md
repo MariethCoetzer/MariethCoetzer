@@ -37,6 +37,7 @@
   </tr>
 </table>
 
+</center>
 
 ### ✍️ Writing / Talks
 - [Title of post/talk](https://link) — 2025
