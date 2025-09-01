@@ -23,7 +23,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/MariethCoetzer/Data_Science_Portfolio/blob/main/%5B01%5D%20Identifying%20Complementary%20Skills%20using%20Network%20Analysis/%20Identifying%20Complementary%20Skills%20using%20Network%20Analysis.ipynb">
-        <img src="assets/project3.png" width="200" alt="image"/>
+        <img src="assets/Skills.png" width="200" alt="image"/>
         <br><b>Network Analysis</b>
       </a>
       <br><sub>Applied network analysis to job postings to uncover complementary skills and identify upskilling pathways for the job market </sub>
