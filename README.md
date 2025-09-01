@@ -26,7 +26,7 @@
       <br><sub>Applied machine learning to predict levels of grit in adolescents, uncovering behavioral insights and showing how interpretable models can be used in education research</sub>
     </td>
     <td align="center" width="33%">
-      <a href="[https://github.com/Braesemann/FounderPersonalities](https://github.com/MariethCoetzer/Data_Science_Portfolio/blob/main/%5B01%5D%20Identifying%20Complementary%20Skills%20using%20Network%20Analysis/%20Identifying%20Complementary%20Skills%20using%20Network%20Analysis.ipynb)">
+      <a href="https://github.com/MariethCoetzer/Data_Science_Portfolio/blob/main/%5B01%5D%20Identifying%20Complementary%20Skills%20using%20Network%20Analysis/%20Identifying%20Complementary%20Skills%20using%20Network%20Analysis.ipynb">
         <img src="assets/project3.png" width="200" alt="image"/>
         <br><b>Network Analysis</b>
       </a>
