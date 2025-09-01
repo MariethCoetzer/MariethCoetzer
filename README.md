@@ -30,7 +30,7 @@
         <img src="assets/project3.png" width="200" alt="image"/>
         <br><b>Network Analysis</b>
       </a>
-      <br><sub>Designed a SQL + dbt pipeline for automated reporting.</sub>
+      <br><sub>Applied network analysis to job postings to uncover complementary skills and identify upskilling pathways for the job market </sub>
     </td>
   </tr>
 </table>
