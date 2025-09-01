@@ -14,7 +14,7 @@
     <td align="center" width="33%">
       <a href="https://github.com/Braesemann/FounderPersonalities">
         <img src="assets/project1.png" width="200" alt="Data Engineer"/>
-        <br><b>Project One</b>
+        <br><b>Data Engineer</b>
       </a>
       <br><sub>Implemented data anonymization, prepared and uploaded datasets, and authored documentation to support reproducibility.</sub>
     </td>
