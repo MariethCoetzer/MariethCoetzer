@@ -2,21 +2,24 @@
 <h1 align="center">Marieth's Github</h1>
 <p align="center">Data Scienctist •  Machine Learning Engineer • Founder</p>
 <p align="center">!!Page currently under construction. Please come back in an hour for update profile!! </p>
+
 ---
 
 </center>
 
 ## Featured Projects
-
+<center>
+  
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/USER/PROJECT1">
+      <a href="[Data Engineering](https://github.com/Braesemann/FounderPersonalities)">
         <img src="assets/project1.png" width="200" alt="Project 1"/>
         <br><b>Project One</b>
       </a>
-      <br><sub>Built a ML model with PyTorch to improve XYZ by 15%.</sub>
+      <br><sub>Implemented data anonymization, prepared and uploaded datasets, and authored documentation to support reproducibility.</sub>
     </td>
+    
     <td align="center" width="33%">
       <a href="https://github.com/USER/PROJECT2">
         <img src="assets/project2.png" width="200" alt="Project 2"/>
@@ -24,6 +27,7 @@
       </a>
       <br><sub>Deployed a FastAPI service with Docker for real-time predictions.</sub>
     </td>
+    
     <td align="center" width="33%">
       <a href="https://github.com/USER/PROJECT3">
         <img src="assets/project3.png" width="200" alt="Project 3"/>
