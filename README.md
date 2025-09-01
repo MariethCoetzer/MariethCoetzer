@@ -3,7 +3,7 @@
 <p align="center">Data Scientist •  Machine Learning Engineer • Founder</p>
 
 
-<h2 align="center" style="border-bottom: 0;>Projects</h2>  
+<h2 align="center">Projects</h2>  
   
 <table>
   <tr>
